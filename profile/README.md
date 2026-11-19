@@ -58,8 +58,7 @@ React Native (Mobile)
 | **Mobile Application Development** | [SobraBoa_Mobile](https://github.com/CitizenTech-SobraBoa/SobraBoa_Mobile) | React Native, Expo Router, Axios |
 | **Disruptive Architectures: IoT, IoB & Generative IA** | [sobraboa-ia](https://github.com/CitizenTech-SobraBoa/sobraboa-ia) | Python, IA generativa, RAG |
 | **DevOps Tools & Cloud Computing** | *(em breve)* | Azure DevOps, Docker, Azure CLI |
-| **Mastering Relational and Non-Relational Database** | *(em breve)* | Oracle PL/SQL, MongoDB |
-| **Compliance, Quality Assurance & Tests** | *(em breve)* | Azure DevOps Boards, Test Plans |
+| **Compliance, Quality Assurance & Tests** | [sobraboa-qa](https://github.com/CitizenTech-SobraBoa/sobraboa-qa) | Azure DevOps Boards, Test Plans |
 
 ---
 
@@ -80,6 +79,12 @@ Receptor confirma recebimento
         ▼
 Comprovante emitido · dashboard atualizado
 ```
+
+---
+
+## Video pitch
+
+[Assistir no YouTube](https://youtu.be/6bxx7Nn27Ag)
 
 ---
 
