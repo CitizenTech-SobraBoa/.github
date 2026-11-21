@@ -57,7 +57,6 @@ React Native (Mobile)
 | **Advanced Business Development with .NET** | [sobraboa-api-dotnet](https://github.com/CitizenTech-SobraBoa/sobraboa-api-dotnet) | ASP.NET Core, EF Core, JWT, xUnit |
 | **Mobile Application Development** | [SobraBoa_Mobile](https://github.com/CitizenTech-SobraBoa/SobraBoa_Mobile) | React Native, Expo Router, Axios |
 | **Disruptive Architectures: IoT, IoB & Generative IA** | [sobraboa-ia](https://github.com/CitizenTech-SobraBoa/sobraboa-ia) | Python, IA generativa, RAG |
-| **DevOps Tools & Cloud Computing** | *(em breve)* | Azure DevOps, Docker, Azure CLI |
 | **Compliance, Quality Assurance & Tests** | [sobraboa-qa](https://github.com/CitizenTech-SobraBoa/sobraboa-qa) | Azure DevOps Boards, Test Plans |
 
 ---
